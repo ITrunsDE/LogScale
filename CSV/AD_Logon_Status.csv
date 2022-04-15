@@ -1,0 +1,22 @@
+id,description_long,description_short
+0XC000005E,There are currently no logon servers available to service the logon request.,No logon servers available (0XC000005E)
+0xC0000064,User logon with misspelled or bad user account,Bad user account (0xC0000064)
+0xC000006A,User logon with misspelled or bad password,Bad password (0xC000006A)
+0XC000006D,The cause is either a bad username or authentication information,Bad password
+0XC000006E,"Indicates a referenced user name and authentication information are valid, but some user account restriction has prevented successful authentication (such as time-of-day restrictions).",Logon restrictions
+0xC000006F,User logon outside authorized hours,Outside authorized hours
+0xC0000070,User logon from unauthorized workstation,Unauthorized workstation
+0xC0000071,User logon with expired password,Expired password
+0xC0000072,User logon to account disabled by administrator,Account disabled
+0XC00000DC,"	Indicates the Sam Server was in the wrong state to perform the desired operation.",Sam Server problem
+0XC0000133,Clocks between DC and other computer too far out of sync,Clock out of sync
+0XC000015B,The user has not been granted the requested logon type (also called the logon right) at this machine,Wrong logon type to this machine.
+0XC000018C,The logon request failed because the trust relationship between the primary domain and the trusted domain failed.,Trust relationshop failed
+0XC0000192,"An attempt was made to logon, but the Netlogon service was not started.",Netlogon not started
+0xC0000193,User logon with expired account,Expired account
+0XC0000224,User is required to change password at next logon,Required password change
+0XC0000225,Evidently a bug in Windows and not a risk,Bug not a risk
+0xC0000234,User logon with account locked,Account locked
+0XC00002EE,Failure Reason: An Error occurred during Logon,Error during logon
+0XC0000413,Logon Failure: The machine you are logging on to is protected by an authentication firewall. The specified account is not allowed to authenticate to the machine.,Not allowed to connect to this machine.
+0x0,OK,OK
